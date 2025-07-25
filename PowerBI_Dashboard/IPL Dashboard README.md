@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project provides a comprehensive **dashboard** that offers **insights into IPL (Indian Premier League)** matches, teams, and player performances from 2008 to 2023. Built using **Power BI**, the dashboard allows users to explore the dynamics of the IPL tournament, including:
+This project provides a comprehensive **dashboard** that offers **insights into IPL (Indian Premier League)** matches, teams, and player performances from 2008 to 2019. Built using **Power BI**, the dashboard allows users to explore the dynamics of the IPL tournament, including:
 - **Match strategies** (batting first vs. second, toss decisions)
 - **Winning trends** by teams
 - **Top players** and their impact on matches
