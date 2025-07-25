@@ -40,9 +40,3 @@ The **IPL Insights Dashboard** provides an in-depth analysis of key aspects of t
 ## Conclusion
 The **IPL Insights Dashboard** provides a detailed and interactive view into the strategies, performances, and trends that have shaped the IPL from 2008 to 2019. With insights into **team success**, **match outcomes**, **player performances**, and **toss decision impacts**, this dashboard offers a comprehensive understanding of the IPL and its evolution over time.
 
----
-
-### 📌 **Next Steps:**
-- Future updates could include **real-time data** integration, more granular player statistics, and insights into specific **seasons** or **team rivalries**.
-- Users can interact with the dashboard to dive deeper into specific teams, seasons, or match outcomes for more tailored insights.
-
