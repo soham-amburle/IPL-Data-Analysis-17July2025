@@ -22,7 +22,7 @@ This project provides a comprehensive **dashboard** that offers **insights into 
 ## Data Sources
 
 - The data for this project comes from the **IPL dataset** containing match results, team data, player information, and more.
-- The data spans from the first season in 2008 up until the most recent season in 2023.
+- The data spans from the first season in 2008 up until the most recent season in 2019.
 
 ## Technologies Used
 - **Power BI**: Used for creating the interactive dashboard.
