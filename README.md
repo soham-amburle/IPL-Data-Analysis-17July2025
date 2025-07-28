@@ -26,5 +26,5 @@ This project analyzes Indian Premier League (IPL) match data using Python and pa
 
 ---
 
-*This is part of my learning journey in data analysis and Python scripting. Feel free to explore or contribute!*
+*This is part of my learning journey in data analysis and Python scripting. Feel free to explore or contribute. Thanks!*
 
