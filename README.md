@@ -2,28 +2,33 @@
 
 17 July, 2025
 
-# IPL-Data-Analysis
-Exploratory data analysis (EDA) of IPL match data using Python. The project covers key insights like top players of the match, toss impact, batting first vs batting second outcomes, team-wise win patterns, and season/city-based trends. Includes a focused segment analyzing Sunrisers Hyderabad's performance when they won both the toss and the match.
-
-
-## What's in this repo?
-- `ipl_data.py`: A Python script that reads IPL match data, filters for specific teams, and performs basic analysis including:
-  - Team performance summaries
-  - Win counts and win percentage
-  - Season-wise insights
-
-## What I used:
-- Python
-- pandas
-- NumPy
-- Jupyter Notebook (or PyCharm)
-
-## Key Analysis Examples:
-- Matches where teams scored more than 200 runs
-- Filtering wins by specific teams like SRH (Sunrisers Hyderabad)
-- Finding out win percentages for teams across seasons
+# IPL Data Analysis 🏏
+This project is an exploratory data analysis (EDA) of IPL match data using Python. It dives into patterns, trends, and insights from past seasons — highlighting top players, how toss decisions impact outcomes, and how different teams perform when batting first vs chasing. There's also a special spotlight on Sunrisers Hyderabad and how they fare when they win both the toss and the match.
 
 ---
 
-*This is part of my learning journey in data analysis and Python scripting. Feel free to explore or contribute. Thanks!*
+## What’s in this repo?
+- `ipl_data.py`: A Python script that processes and analyzes IPL match data. It includes:
+  - Team-wise performance breakdowns
+  - Win counts and percentages
+  - Season and city-level trends
 
+---
+
+## Tools & Libraries Used:
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Jupyter Notebook** (or **PyCharm** for script editing)
+
+---
+
+## Key Insights Explored:
+- Matches where teams scored more than 200 runs
+- Team-specific win analysis (e.g., SRH)
+- Toss influence on match results
+- Win percentages across seasons
+
+---
+
+✨ *This project is part of my data analytics learning journey using Python. Feel free to check it out, share feedback, or contribute. Thanks for stopping by!*
