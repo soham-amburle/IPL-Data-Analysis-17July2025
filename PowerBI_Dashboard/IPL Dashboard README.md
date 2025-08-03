@@ -38,6 +38,3 @@ This project provides a comprehensive **dashboard** that offers **insights into 
 ## Contributing
 Feel free to contribute to the project by creating pull requests for bug fixes, improvements, or additional insights. Please follow the **standard GitHub practices** for contributing.
 
-## License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
