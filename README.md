@@ -3,7 +3,7 @@
 17 July, 2025
 
 # IPL Data Analysis 
-This project is an exploratory data analysis (EDA) of IPL match data using Python. It dives into patterns, trends, and insights from past seasons, highlighting top players, how toss decisions impact outcomes, and how different teams perform when batting first vs chasing. There's also a special spotlight on Sunrisers Hyderabad and how they fare when they win both the toss and the match.
+This project is an exploratory data analysis (EDA) of IPL match data using Python. It delves into patterns, trends, and insights from past seasons, highlighting top players, the impact of toss decisions on outcomes, and how different teams perform when batting first versus chasing. There's also a special spotlight on Sunrisers Hyderabad and how they fare when they win both the toss and the match.
 
 ---
 
