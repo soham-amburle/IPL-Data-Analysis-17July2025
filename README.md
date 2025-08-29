@@ -8,7 +8,7 @@ This project is an exploratory data analysis (EDA) of IPL match data using Pytho
 ---
 
 ## What’s in this repo?
-- `ipl_data.py`: A Python script that processes and analyzes IPL match data. It includes:
+- `ipl_data.py`: A Python script that processes and analyzes IPL match data. It includes the following:
   - Team-wise performance breakdowns
   - Win counts and percentages
   - Season and city-level trends
