@@ -15,7 +15,7 @@ This project is an exploratory data analysis (EDA) of IPL match data using Pytho
 
 ---
 
-## Tools & Libraries Used:
+## Tools & Libraries that were Used:
 - **Python**
 - **Pandas**
 - **NumPy**
